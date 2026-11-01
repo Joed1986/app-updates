@@ -1,0 +1,26 @@
+{
+  "apps" : {
+    "com.jruff.longbox" : {
+      "appleId" : "6829286932",
+      "build" : "261101.1024",
+      "expires" : "2027-01-30T15:27:32Z",
+      "name" : "Longbox",
+      "uploaded" : "2026-11-01T15:27:32Z"
+    },
+    "com.jruffini.PlexBooks" : {
+      "appleId" : "6819075804",
+      "build" : "1",
+      "expires" : "2027-01-02T20:14:32Z",
+      "name" : "PlexBooks",
+      "uploaded" : "2026-10-04T20:14:32Z"
+    },
+    "com.jruffini.PlexSync" : {
+      "appleId" : "6788565424",
+      "build" : "261101.1834",
+      "expires" : "2027-01-30T23:44:31Z",
+      "name" : "Plex Sync",
+      "uploaded" : "2026-11-01T23:44:31Z"
+    }
+  },
+  "updated" : "2026-11-01T23:51:49Z"
+}
