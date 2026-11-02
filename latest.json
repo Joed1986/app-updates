@@ -16,10 +16,10 @@
     },
     "com.jruffini.PlexBooks" : {
       "appleId" : "6819075804",
-      "build" : "1",
-      "expires" : "2027-01-02T20:14:32Z",
+      "build" : "261101.1903",
+      "expires" : "2027-01-31T00:06:05Z",
       "name" : "PlexBooks",
-      "uploaded" : "2026-10-04T20:14:32Z"
+      "uploaded" : "2026-11-02T00:06:05Z"
     },
     "com.jruffini.PlexSync" : {
       "appleId" : "6788565424",
@@ -29,5 +29,5 @@
       "uploaded" : "2026-11-01T23:44:31Z"
     }
   },
-  "updated" : "2026-11-01T23:55:58Z"
+  "updated" : "2026-11-02T00:07:53Z"
 }
