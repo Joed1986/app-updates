@@ -16,10 +16,10 @@
     },
     "com.jruffini.Marquee" : {
       "appleId" : "6832776123",
-      "build" : "261109.2220",
-      "expires" : "2027-02-08T03:23:55Z",
+      "build" : "261109.2253",
+      "expires" : "2027-02-08T03:58:28Z",
       "name" : "Marquee Hub",
-      "uploaded" : "2026-11-10T03:23:55Z"
+      "uploaded" : "2026-11-10T03:58:28Z"
     },
     "com.jruffini.PlexBooks" : {
       "appleId" : "6819075804",
@@ -36,5 +36,5 @@
       "uploaded" : "2026-11-01T23:44:31Z"
     }
   },
-  "updated" : "2026-11-10T03:26:15Z"
+  "updated" : "2026-11-10T04:01:18Z"
 }
