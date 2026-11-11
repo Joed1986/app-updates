@@ -14,6 +14,13 @@
       "name" : "AudioAI",
       "uploaded" : "2026-11-01T23:54:42Z"
     },
+    "com.jruffini.Dial" : {
+      "appleId" : "6833240702",
+      "build" : "261110.1918",
+      "expires" : "2027-02-09T00:22:02Z",
+      "name" : "Dial Channels",
+      "uploaded" : "2026-11-11T00:22:02Z"
+    },
     "com.jruffini.Marquee" : {
       "appleId" : "6832776123",
       "build" : "261109.2253",
@@ -36,5 +43,5 @@
       "uploaded" : "2026-11-01T23:44:31Z"
     }
   },
-  "updated" : "2026-11-10T04:01:18Z"
+  "updated" : "2026-11-11T00:24:50Z"
 }
