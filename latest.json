@@ -17,9 +17,9 @@
     "com.jruffini.Dial" : {
       "appleId" : "6833240702",
       "build" : "261111.5",
-      "expires" : "2027-02-09T05:08:22Z",
+      "expires" : "2027-02-09T05:09:16Z",
       "name" : "Dial Channels",
-      "uploaded" : "2026-11-11T05:08:22Z"
+      "uploaded" : "2026-11-11T05:09:16Z"
     },
     "com.jruffini.Marquee" : {
       "appleId" : "6832776123",
@@ -43,5 +43,5 @@
       "uploaded" : "2026-11-01T23:44:31Z"
     }
   },
-  "updated" : "2026-11-11T05:09:51Z"
+  "updated" : "2026-11-11T05:14:50Z"
 }
