@@ -2,10 +2,10 @@
   "apps" : {
     "com.jruff.longbox" : {
       "appleId" : "6829286932",
-      "build" : "261108.1046",
-      "expires" : "2027-02-06T15:49:43Z",
+      "build" : "261114.1043",
+      "expires" : "2027-02-12T15:46:05Z",
       "name" : "Longbox",
-      "uploaded" : "2026-11-08T15:49:43Z"
+      "uploaded" : "2026-11-14T15:46:05Z"
     },
     "com.jruffini.AudioAI" : {
       "appleId" : "6829564758",
@@ -43,5 +43,5 @@
       "uploaded" : "2026-11-01T23:44:31Z"
     }
   },
-  "updated" : "2026-11-14T04:59:51Z"
+  "updated" : "2026-11-14T15:49:51Z"
 }
